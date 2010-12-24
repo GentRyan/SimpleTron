@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1292294927 source:/home/bit/C++Progs/Simpletron2/main.cpp
+	<iostream>
+	<iomanip>
+	"sml.h"
+
+1292293792 /home/bit/C++Progs/Simpletron2/sml.h
+
+1292294910 source:/home/bit/C++Progs/Simpletron2/sml.cpp
+	<iostream>
+	<iomanip>
+	"sml.h"
+
+1292778131 source:/home/bit/C++Progs/SimpleTron/main.cpp
+	<iostream>
+	<iomanip>
+	"sml.h"
+
+1292779945 /home/bit/C++Progs/SimpleTron/sml.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1292779835 source:/home/bit/C++Progs/SimpleTron/sml.cpp
+	"sml.h"
+
+1292778142 source:/home/bit/C++Progs/SimpleTron/input_from_file.cxx
+	"sml.h"
+
